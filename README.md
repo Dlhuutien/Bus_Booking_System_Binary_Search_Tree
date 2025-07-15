@@ -39,8 +39,6 @@ A Command-Line Interface (CLI) provides users with easy interaction and manageme
 
 - No SQL or NoSQL database is used.  
 - Data is temporarily stored in memory using BST and linked list structures.  
-- Data is saved and loaded from CSV-like text files (e.g., `buses.txt`, `customers.txt`) for easy storage and recovery.
-
 ---
 
 ## Backend
